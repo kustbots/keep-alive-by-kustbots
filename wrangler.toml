@@ -6,4 +6,3 @@ compatibility_date = "2023-12-01"
 crons = ["* * * * *"] 
 
 [env.production.vars]
-1 = "url_here"  
