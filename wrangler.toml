@@ -6,4 +6,4 @@ compatibility_date = "2023-12-01"
 crons = ["* * * * *"] 
 
 [env.production.vars]
-1 = "https://kb-movie-bot.onrender.com/"  
+1 = "url_here"  
